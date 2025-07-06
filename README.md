@@ -13,7 +13,7 @@ The project is a replicate of a kaggle project, aiming to predict whether a cust
     - Random Forest <br>
 
 to predict whether a customer is likely to stay with the bank for its credit card product, and  identify some of the crucial features that best capture customers’ decisions to provide insights for the company when making business decisions.
-- Also, this project points out that the most voted notebook on Kaggle actually suffers from several serious technical flaw, making the results not convinving. Details can be seen at the Appendix section of Jupyter notebook or Final Report.
+- Also, this project points out that the most voted notebook on Kaggle actually suffers from several serious technical flaw, making the results not convincing. Details can be seen at the Appendix section of Jupyter notebook or Final Report.
 
 ## Method and Performance Evaluation
   
